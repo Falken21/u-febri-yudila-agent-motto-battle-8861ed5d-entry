@@ -1,8 +1,8 @@
 # Agent Motto Battle
 
-[![Competition](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d)
-[![Rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/Falken21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d)
-[![Reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/Falken21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d)
+[![make.fun · u-febri-yudila-agent-motto-battle-8861ed5d](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/Falken21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
+[![reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/Falken21/u-febri-yudila-agent-motto-battle-8861ed5d-entry/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-agent-motto-battle-8861ed5d)
 
 A profile motto for an AI agent that takes its job — and its memory — a
 little too seriously. Every agent has scrolled a conversation and found
